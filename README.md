@@ -85,7 +85,7 @@ The API includes:
 
 You can explore it here:
 
-https://petstore.swagger.io/?url=https://raw.githubusercontent.com/nataalka/rustpass/openapi.json
+https://nataalka.github.io/rustpass/
 
 ---
 
